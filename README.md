@@ -4,7 +4,7 @@ My name is Miles Conn (pronouns: he/his/him) and I'm a sophomore at Carnegie
 Mellon University. 
 
 I'm interested in a lot of things, currently I'm a full-stack developer at
-[convertsation] working with Vue, Golang, and some other neat
+[Convertsation.org] working with Vue, Golang, and some other neat
 tools. 
 
 
