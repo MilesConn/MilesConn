@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
-
 ---
-
 
 <img align="left" alt="MilesConn's Github Stats"
 src="https://github-readme-stats.vercel.app/api?username=MilesConn&show_icons=true&hide_border=true&theme=tokyonight"
 />
 
+<br />
 <br />
 
 ---
