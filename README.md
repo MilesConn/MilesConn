@@ -7,6 +7,11 @@ I'm interested in a lot of things, currently I'm a full-stack developer at
 [Convertsation.org] working with Vue, Golang, and some other neat
 tools. 
 
+
+I'm also working on a super secret *(ie still under double-blind review)* project based on [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) 
+that I'm excited to show off once I can.  
+
+
 ---
 
 ### Connect with me: 
