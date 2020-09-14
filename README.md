@@ -8,8 +8,8 @@ I'm interested in a lot of things, currently I'm a full-stack developer at
 tools. 
 
 
-I'm also working on a super secret *(ie still under double-blind review)* project based on [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) 
-that I'm excited to show off once I can.  
+I'm also working on a research project based on [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) 
+that I'm excited to show off once I've made some more progress. 
 
 
 ---
