@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-My name is Miles Conn (pronouns: he/his/him) and I'm a sophomore at Carnegie
+My name is Miles Conn (pronouns: he/his/him) and I'm a rising Junior at Carnegie
 Mellon University. 
 
-I'm interested in a lot of things, currently I'm a full-stack developer at
-[Convertsation.org] working with Vue, Golang, and some other neat
-tools. 
+I'm interested in a lot of things, currently I'm a SE at [Ponto](https://ponto.org/)
 
 
-I'm also working on a research project based on [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) 
-that I'm excited to show off once I've made some more progress. 
-
+I'm also working on a research project about ray refraction in non-homogenous IOR liquids. 
 
 ---
 
@@ -22,4 +18,4 @@ that I'm excited to show off once I've made some more progress.
 
 [website]: https://milesconn.io/ 
 [linkedin]: https://www.linkedin.com/in/miles-conn-0592b819b
-[Convertsation.org]: https://www.convertsation.org/
+[Ponto.org]: https://ponto.org/
