@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-My name is Miles Conn(he/him) and I'm a rising Junior at Carnegie
+My name is Miles Conn(he/him) and I'm a Junior at Carnegie
 Mellon University. 
 
-I'm interested in a lot of things, currently I'm a SE at [Ponto](https://ponto.org/)
+I'm interested in a lot of things, currently I'm a SE at a startup.
 
-
-I'm also working on a research project about ray refraction in non-homogenous IOR liquids. 
-
-Interests: Compilers/PL Theory/Graphics
+Interests: Compilers/PL Theory/Computer Graphics
 
 ---
 
@@ -20,4 +17,3 @@ Interests: Compilers/PL Theory/Graphics
 
 [website]: https://milesconn.io/ 
 [linkedin]: https://www.linkedin.com/in/miles-conn-0592b819b
-[Ponto.org]: https://ponto.org/
