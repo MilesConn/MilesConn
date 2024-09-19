@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-My name is Miles Conn(he/him) and I'm a Junior at Carnegie
+My name is Miles Conn(he/him) and I'm a Senior at Carnegie
 Mellon University. 
-
-I'm interested in a lot of things, currently I'm a SE at a startup.
 
 Interests: Compilers/PL Theory/Computer Graphics
 
