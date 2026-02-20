@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Miles Conn(he/him) and ~~I'm a Senior at Carnegie
-Mellon University.~~ right now I work.
+Mellon University~~ right now I work.
 
 Interests: Compilers/PL Theory/Computer Graphics
 
